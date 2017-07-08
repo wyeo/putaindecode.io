@@ -13,7 +13,7 @@ authors:
 
 Everything begins in 1999 when [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) 
 present a new software development methodology based on AGILE: the eXtreme Programming aka _XP_.  
-_XP_ define new optimized development practices that improve code production and strength.  
+_XP_ define new optimised development practices that improve code production and strength.  
 Among the well-known principles of his methodology we can highlight 
 **Continuous Integration** and **pair programming**.
 
@@ -81,7 +81,7 @@ standing for Arrange, Act, Assert.
 He insists on the fact that the order isn't immutable, as such,
 _assertion_ can come before _action_, etc...
 
-- **Arranger**: Set up phase of the test environment in which we declare 
+- **Arrange**: Set up phase of the test environment in which we declare 
 variables and functions. 
 - **Act**: Phase in which we act on our environment by applying mutations. 
 - **Assert**: We make claims about the whole environment 
