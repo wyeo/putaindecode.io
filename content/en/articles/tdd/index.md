@@ -67,7 +67,7 @@ We can split TDD into 5 distinct steps:
 2. Make it fail.
 3. Write the **suitable** code to make the test pass.
 4. Check that the test pass.
-5. Optimize the code and check that there is no regression.
+5. Optimise the code and check that there is no regression.
 
 To simplify this logic we can group these 5 steps in 3 great principles:
 
