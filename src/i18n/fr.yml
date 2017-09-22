@@ -45,8 +45,8 @@
   copyright: "© 1970 - {*} Putain de code !"
   tags: "Tags"
   filters: "(filtres)"
-  twitterUsername: "putaindecode_fr"
-  twitter: "https://twitter.com/putaindecode_fr/"
+  twitterUsername: "putaindecode"
+  twitter: "https://twitter.com/putaindecode/"
   twitterLabel: "Twitter"
   github: "https://github.com/putaindecode/putaindecode.io"
   githubLabel: "GitHub"
@@ -54,6 +54,10 @@
   facebookLabel: "Facebook"
   chat: "/discuss/"
   chatLabel: "Discuter"
+  soundcloud: "https://soundcloud.com/putaindecode"
+  soundcloudLabel: "SoundCloud (Podcast)"
+  itunes: "https://itunes.apple.com/fr/podcast/putain-de-code-!/id1185311825"
+  itunesLabel: "iTunes (Podcast)"
   forum: "https://github.com/putaindecode/forum/issues"
   forumLabel: "Forum"
   PageError:
@@ -76,4 +80,4 @@
   footerNavigation:
     -
       url: "/feed.xml"
-      name: "Flux RSS"
+      name: "RSS"

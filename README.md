@@ -1,9 +1,9 @@
 # Putain de code !
 
-[![Travis Build Status](https://img.shields.io/travis/putaindecode/putaindecode.io.svg?label=unix build)](https://travis-ci.org/putaindecode/putaindecode.io)
-[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/MoOx/putaindecode-io.svg?label=windows build)](https://ci.appveyor.com/project/MoOx/putaindecode-io)
+[![Travis Build Status](https://img.shields.io/travis/putaindecode/putaindecode.io.svg?label=unix%20build)](https://travis-ci.org/putaindecode/putaindecode.io)
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/MoOx/putaindecode-io.svg?label=windows%20build)](https://ci.appveyor.com/project/MoOx/putaindecode-io)
 
-<img align="right" alt="" src="https://github.com/putaindecode/putaindecode.io/blob/master/content/images/p!-logo--no-bubble-512--trim.png" width="128">
+<img align="right" alt="" src="https://github.com/putaindecode/putaindecode.io/blob//master/src/images/putaindecode-logo--no-bubble-512--trim.png" width="128">
 
 Code source du site [_Putain de code !_](http://putaindecode.io/).
 Contient tout le nécessaire pour faire fonctionner le site.
@@ -82,7 +82,7 @@ votre navigateur.
 
 **Note :
 vous aurez besoin d'un token GitHub disponible en variable d'environnement
-(dans `GITHUB_TOKEN` ou `GH_TOKEN`) afin de pouvoir constuire l'index des
+(dans `GITHUB_TOKEN` ou `GH_TOKEN`) afin de pouvoir construire l'index des
 contributions pour avoir accès à toutes les fonctionnalités du site.
 Autrement, le site fonctionnera en mode dégradé.**
 
